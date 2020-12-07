@@ -1,0 +1,536 @@
+{
+    "logam-mulia": {
+        "label": "Logam Mulia",
+        "sub_categories": []
+    },
+    "fashion-muslim": {
+        "label": "Fashion Muslim",
+        "sub_categories": [
+            "Aksesoris Muslim",
+            "Atasan Muslim Wanita",
+            "Baju Renang Muslim",
+            "Bawahan Muslim Wanita",
+            "Dress Muslim Wanita",
+            "Jilbab",
+            "Outerwear Muslim Wanita",
+            "Pakaian Muslim Anak",
+            "Pakaian Muslim Pria",
+            "Perlengkapan Ibadah",
+            "Masker"
+        ]
+    },
+    "office-stationery": {
+        "label": "Office & Stationery",
+        "sub_categories": [
+            "Alat Tulis",
+            "Buku Tulis",
+            "Document Organizer",
+            "Kalkulator & Kamus Elektronik",
+            "Kertas",
+            "Lain-Lain",
+            "Meja Kursi Kerja",
+            "Pemotong Kertas",
+            "Pengikat & Perekat",
+            "Surat-Menyurat"
+        ]
+    },
+    "pilihan-untukmu": {
+        "label": "Pilihan Untukmu",
+        "sub_categories": []
+    },
+    "otomotif": {
+        "label": "Otomotif",
+        "sub_categories": [
+            "Aksesoris Motor",
+            "Aksesoris Pengendara Motor",
+            "Audio & Video Mobil",
+            "Ban Mobil",
+            "Ban Motor",
+            "Eksterior Mobil",
+            "Helm Motor",
+            "Interior Mobil",
+            "Mobil",
+            "Oli & Penghemat BBM",
+            "Perawatan Kendaraan",
+            "Perkakas Kendaraan",
+            "Sepeda Motor",
+            "Spare Part Mobil",
+            "Spare Part Motor",
+            "Velg Mobil",
+            "Velg Motor"
+        ]
+    },
+    "wedding": {
+        "label": "Wedding",
+        "sub_categories": [
+            "Aksesoris Pengantin Pria",
+            "Bridal & Sanggar",
+            "Wedding-Makanan & Minuman",
+            "Decoration",
+            "Entertainment",
+            "Gaun & Pakaian Wanita",
+            "Jasa Pernikahan Lainnya",
+            "Jas & Pakaian Pria",
+            "Kecantikan, Hair & Makeup",
+            "Makanan & Minuman Pernikahan",
+            "Paket Lengkap",
+            "Perhiasan & Aksesori",
+            "Photography & Videography",
+            "Sewa",
+            "Souvenir & Seserahan",
+            "Undangan",
+            "Venue",
+            "Wedding Organizer",
+            "Wedding Planning",
+            "Wedding Stylist"
+        ]
+    },
+    "rumah-tangga": {
+        "label": "Rumah Tangga",
+        "sub_categories": [
+            "Dekorasi",
+            "Furniture",
+            "Kamar Mandi",
+            "Kamar Tidur",
+            "Kebersihan",
+            "Kebutuhan Rumah",
+            "Lain-Lain",
+            "Laundry",
+            "Ruang Tamu & Keluarga",
+            "Taman",
+            "Tempat Penyimpanan",
+            "Travel"
+        ]
+    },
+    "perawatan-tubuh": {
+        "label": "Perawatan Tubuh",
+        "sub_categories": [
+            "Grooming",
+            "Kesehatan Gigi & Mulut",
+            "Parfum, Cologne, & Fragrance",
+            "Perawatan Kaki & Tangan",
+            "Perawatan Kuku",
+            "Perawatan Kulit",
+            "Perawatan Mata",
+            "Perawatan Rambut",
+            "Perawatan Telinga",
+            "Perlengkapan Mandi",
+            "Produk Kewanitaan"
+        ]
+    },
+    "dapur": {
+        "label": "Dapur",
+        "sub_categories": [
+            "Aksesoris Dapur",
+            "Alat Masak Khusus",
+            "Bekal",
+            "Lain-Lain",
+            "Penyimpanan Makanan",
+            "Peralatan Baking",
+            "Peralatan Dapur",
+            "Peralatan Makan & Minum",
+            "Peralatan Masak",
+            "Perlengkapan Cuci Piring"
+        ]
+    },
+    "fashion-wanita": {
+        "label": "Fashion Wanita",
+        "sub_categories": [
+            "Aksesoris Sepatu Wanita",
+            "Aksesoris Wanita",
+            "Atasan Wanita",
+            "Baju Tidur Wanita",
+            "Batik Wanita",
+            "Bawahan Wanita",
+            "Beachwear Wanita",
+            "Bridal",
+            "Dress",
+            "Fashion Couple",
+            "Jam Tangan Wanita",
+            "Jeans & Denim Wanita",
+            "Kebaya",
+            "Outerwear Wanita",
+            "Pakaian Adat Wanita",
+            "Pakaian Dalam Wanita",
+            "Perhiasan Wanita",
+            "Sepatu Wanita",
+            "Seragam Wanita",
+            "Setelan Wanita",
+            "Tas Wanita",
+            "Masker"
+        ]
+    },
+    "film-musik": {
+        "label": "Film & Musik",
+        "sub_categories": [
+            "Alat Musik Digital",
+            "Alat Musik Gesek",
+            "Alat Musik Tiup",
+            "Alat Musik Tradisional",
+            "Drum & Perkusi",
+            "Film & Serial TV",
+            "Gitar & Bass",
+            "Keyboard & Piano",
+            "Musik",
+            "Perlengkapan Alat Musik",
+            "Vokal"
+        ]
+    },
+    "kesehatan": {
+        "label": "Kesehatan",
+        "sub_categories": [
+            "Suplemen Diet",
+            "Essential Oil",
+            "Kesehatan Wanita",
+            "Lainnya",
+            "Vitamin & Multivitamin",
+            "Nutrisi Ibu Hamil",
+            "Obat - Obatan",
+            "Perlengkapan Medis",
+            "Produk Dewasa",
+            "Tulang Otot & Sendi",
+            "Perlengkapan Kebersihan"
+        ]
+    },
+    "properti": {
+        "label": "Properti",
+        "sub_categories": [
+            "Perumahan"
+        ]
+    },
+    "gaming": {
+        "label": "Gaming",
+        "sub_categories": [
+            "Aksesoris Game Console",
+            "Aksesoris Mobile Gaming",
+            "CD Game",
+            "Game Console"
+        ]
+    },
+    "perawatan-hewan": {
+        "label": "Perawatan Hewan",
+        "sub_categories": [
+            "Grooming Hewan",
+            "Perawatan Anjing",
+            "Perawatan Ayam",
+            "Perawatan Burung",
+            "Perawatan Hamster",
+            "Perawatan Hewan Ternak",
+            "Perawatan Ikan",
+            "Perawatan Kelinci",
+            "Perawatan Kucing",
+            "Perawatan Reptil",
+            "Perlengkapan Hewan",
+            "Hewan Peliharaan"
+        ]
+    },
+    "handphone-tablet": {
+        "label": "Handphone & Tablet",
+        "sub_categories": [
+            "Aksesoris Handphone",
+            "Aksesoris Tablet",
+            "Handphone",
+            "Komponen Handphone",
+            "Komponen Tablet",
+            "Nomor Perdana & Voucher",
+            "Power Bank",
+            "Tablet",
+            "Wearable Devices"
+        ]
+    },
+    "olahraga": {
+        "label": "Olahraga",
+        "sub_categories": [
+            "Aksesoris Olahraga",
+            "Alat Pancing",
+            "Badminton",
+            "Baseball",
+            "Basket",
+            "Beladiri",
+            "Boxing",
+            "Golf",
+            "Gym & Fitness",
+            "Hiking & Camping",
+            "Lain-Lain",
+            "Olahraga Air",
+            "Pakaian Olahraga Pria",
+            "Pakaian Olahraga Wanita",
+            "Panahan",
+            "Perlengkapan Lari",
+            "Sepak Bola & Futsal",
+            "Sepatu Roda & Skateboard",
+            "Sepeda",
+            "Tenis",
+            "Tenis meja",
+            "Voli",
+            "Yoga & Pilates"
+        ]
+    },
+    "komputer-laptop": {
+        "label": "Komputer & Laptop",
+        "sub_categories": [
+            "Aksesoris Komputer & Laptop",
+            "Aksesoris PC Gaming",
+            "Desktop & Mini PC",
+            "Kabel & Adaptor",
+            "Komponen Komputer",
+            "Komponen Laptop",
+            "Laptop",
+            "Media Penyimpanan Data",
+            "Memory Card",
+            "Monitor",
+            "Networking",
+            "PC & Laptop Gaming",
+            "Software"
+        ]
+    },
+    "produk-lainnya": {
+        "label": "Produk Lainnya",
+        "sub_categories": []
+    },
+    "fashion-pria": {
+        "label": "Fashion Pria",
+        "sub_categories": [
+            "Aksesoris Pria",
+            "Aksesoris Sepatu Pria",
+            "Atasan Pria",
+            "Baju Tidur Pria",
+            "Batik Pria",
+            "Blazer & Jas Pria",
+            "Celana Pria",
+            "Jam Tangan Pria",
+            "Jeans & Denim Pria",
+            "Outerwear Pria",
+            "Pakaian Adat Pria",
+            "Pakaian Dalam Pria",
+            "Perhiasan Pria",
+            "Sepatu Pria",
+            "Seragam Pria",
+            "Tas Pria",
+            "Topi  Pria",
+            "Masker"
+        ]
+    },
+    "fashion-anak-bayi": {
+        "label": "Fashion Anak & Bayi",
+        "sub_categories": [
+            "Aksesoris Anak",
+            "Aksesoris Bayi",
+            "Baju & Sepatu Bayi",
+            "Jam Tangan Anak",
+            "Kostum Anak",
+            "Pakaian Adat Anak",
+            "Pakaian Anak Laki-Laki",
+            "Pakaian Anak Perempuan",
+            "Pakaian Dalam Anak",
+            "Perhiasan Anak",
+            "Sepatu Anak Laki-laki",
+            "Sepatu Anak Perempuan",
+            "Seragam Sekolah",
+            "Tas Anak"
+        ]
+    },
+    "buku": {
+        "label": "Buku",
+        "sub_categories": [
+            "Arsitektur & Desain",
+            "Buku Hukum",
+            "Buku Import",
+            "Buku Masakan",
+            "Buku Persiapan Ujian",
+            "Buku Remaja dan Anak",
+            "Ekonomi & Bisnis",
+            "Hobi",
+            "Kamus",
+            "Kedokteran",
+            "Keluarga",
+            "Kesehatan & Gaya Hidup",
+            "Kewanitaan",
+            "Komik",
+            "Komputer & Internet",
+            "Lainnya",
+            "Majalah",
+            "Novel & Sastra",
+            "Pendidikan",
+            "Pengembangan Diri & Karir",
+            "Pertanian",
+            "Religi & Spiritual",
+            "Sosial Politik",
+            "Teknik & Sains"
+        ]
+    },
+    "tour-travel": {
+        "label": "Tour & Travel",
+        "sub_categories": [
+            "Paket Tur",
+            "Tiket Atraksi",
+            "Tiket Transportasi",
+            "Sim Card & Wifi Internasional",
+            "Dokumen Perjalanan",
+            "Voucher Travel"
+        ]
+    },
+    "elektronik": {
+        "label": "Elektronik",
+        "sub_categories": [
+            "Alat Pendingin Ruangan",
+            "Audio",
+            "Elektronik Dapur",
+            "Elektronik Kantor",
+            "Elektronik Rumah Tangga",
+            "Kamera Pengintai",
+            "Lampu",
+            "Media Player",
+            "Perangkat Elektronik Lainnya",
+            "Printer",
+            "Telepon",
+            "TV & Aksesoris",
+            "Vaporizer"
+        ]
+    },
+    "kecantikan": {
+        "label": "Kecantikan",
+        "sub_categories": [
+            "Aksesoris Rambut",
+            "Brush Applicator",
+            "Eyebrow Kit",
+            "Face & Body Paint Kit",
+            "Hand & nail art",
+            "Lip Color & Lip Care",
+            "Make up Mata",
+            "Make up Tools",
+            "Make up Wajah",
+            "Masker Kecantikan",
+            "Mix Palette",
+            "Pembersih Make Up",
+            "Perawatan Wajah",
+            "Styling Rambut Wanita"
+        ]
+    },
+    "perlengkapan-pesta-craft": {
+        "label": "Perlengkapan Pesta & Craft",
+        "sub_categories": [
+            "Alat Ukir",
+            "Balon",
+            "Bunga",
+            "Bungkus Kemasan",
+            "Dekorasi Pesta",
+            "Hadiah",
+            "Kebutuhan Pesta",
+            "Kerajinan Tangan",
+            "Kertas Seni",
+            "Lainnya",
+            "Peralatan Jahit",
+            "Peralatan Melukis",
+            "Peralatan Menggambar",
+            "Perlengkapan Kaligrafi",
+            "Persiapan Pernikahan"
+        ]
+    },
+    "mainan-hobi": {
+        "label": "Mainan & Hobi",
+        "sub_categories": [
+            "Aksesoris Airsoft Gun",
+            "Board Game",
+            "Boneka",
+            "Diecast",
+            "Figure",
+            "Gag & Prank Toy",
+            "Kostum",
+            "Lainnya",
+            "Mainan Anak - Anak",
+            "Mainan Remote Control",
+            "Model Kit",
+            "Perlengkapan Jahit",
+            "Perlengkapan Sulap",
+            "Permainan Kartu",
+            "Permainan Tradisional",
+            "Puzzle",
+            "Stress Relieve Toys"
+        ]
+    },
+    "makanan-minuman": {
+        "label": "Makanan & Minuman",
+        "sub_categories": [
+            "Bahan Kue",
+            "Beras",
+            "Bumbu & Bahan Masakan",
+            "Kopi",
+            "Kue",
+            "Makanan Beku",
+            "Makanan Jadi",
+            "Makanan Kaleng",
+            "Makanan Kering",
+            "Makanan Ringan",
+            "Makanan Sarapan",
+            "Mie & Pasta",
+            "Minuman",
+            "Paket & Parcel Makanan",
+            "Produk Susu",
+            "Protein & Telur",
+            "Sayur & Buah",
+            "Teh",
+            "Tepung"
+        ]
+    },
+    "ibu-bayi": {
+        "label": "Ibu & Bayi",
+        "sub_categories": [
+            "Mainan & Aktivitas Bayi",
+            "Makanan & Susu Bayi",
+            "Pakaian Ibu Hamil",
+            "Peralatan Perlengkapan Menyusui",
+            "Perawatan Bayi",
+            "Perlengkapan Makan Bayi",
+            "Perlengkapan Mandi Bayi",
+            "Perlengkapan & Perawatan Ibu",
+            "Perlengkapan Tidur Bayi",
+            "Popok",
+            "Stroller & Alat Bantu Bawa Bayi",
+            "Makanan & Susu Ibu Hamil"
+        ]
+    },
+    "kamera": {
+        "label": "Kamera",
+        "sub_categories": [
+            "Aksesoris Kamera",
+            "Analog",
+            "Baterai & Charger Kamera",
+            "Camcorder",
+            "Cleaning Tools Kamera",
+            "Digital",
+            "Drone & Aksesoris",
+            "Frame, Album & Roll Film",
+            "Lensa & Aksesoris",
+            "Lighting & Studio",
+            "Tas & Case Kamera",
+            "Video"
+        ]
+    },
+    "pertukangan": {
+        "label": "Pertukangan",
+        "sub_categories": [
+            "Alat Angkut Barang",
+            "Alat Keselamatan",
+            "Alat Perkebunan",
+            "Alat Ukur Industri",
+            "Baut & Mur Pengencang",
+            "Cat & Perlengkapan",
+            "Generator & Genset",
+            "Gerobak",
+            "Hand Tools",
+            "Ledeng",
+            "Machinery",
+            "Material Bangunan",
+            "Mesin Produksi",
+            "Motors & Power Transmission",
+            "Otomasi Industrial",
+            "Perlengkapan Las",
+            "Perlengkapan Listrik",
+            "Pneumatic",
+            "Power Tools",
+            "Tape & Sealant Perekat",
+            "Tenaga Surya"
+        ]
+    }
+}
