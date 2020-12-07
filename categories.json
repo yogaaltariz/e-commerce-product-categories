@@ -1,0 +1,379 @@
+{
+    "makanan-minuman": {
+        "link": "https://shopee.co.id/Makanan-Minuman-cat.157",
+        "label": "Makanan & Minuman",
+        "sub_categories": [
+            "Menu Sarapan",
+            "Roti & Kue",
+            "Susu & Olahan",
+            "Bahan Pokok",
+            "Makanan Instan",
+            "Makanan Kaleng",
+            "Makanan Siap Saji",
+            "Makanan Ringan",
+            "Makanan Beku",
+            "Cokelat & Permen",
+            "Minuman",
+            "Makanan Segar",
+            "Makanan & Minuman Lainnya"
+        ]
+    },
+    "perawatan-kecantikan": {
+        "link": "https://shopee.co.id/Perawatan-Kecantikan-cat.14840",
+        "label": "Perawatan & Kecantikan",
+        "sub_categories": [
+            "Alat Kecantikan",
+            "Kosmetik Mata",
+            "Kosmetik Wajah",
+            "Kosmetik Bibir",
+            "Alat Rambut",
+            "Perawatan Kuku",
+            "Perawatan Rambut",
+            "Perawatan Wajah",
+            "Perawatan Tubuh",
+            "Perawatan Pria",
+            "Parfum",
+            "Paket Kecantikan",
+            "Kecantikan Lainnya"
+        ]
+    },
+    "handphone-aksesoris": {
+        "link": "https://shopee.co.id/Handphone-Aksesoris-cat.40",
+        "label": "Handphone & Aksesoris",
+        "sub_categories": []
+    },
+    "ibu-bayi": {
+        "link": "https://shopee.co.id/Ibu-Bayi-cat.45",
+        "label": "Ibu & Bayi",
+        "sub_categories": [
+            "Makanan Bayi",
+            "Perlengkapan Makan Bayi",
+            "Perawatan Bayi",
+            "Popok Bayi",
+            "Perlengkapan Mandi Bayi",
+            "Perlengkapan Tidur Bayi",
+            "Perlengkapan Travelling Bayi",
+            "Kebutuhan Ibu",
+            "Mainan Bayi & Anak"
+        ]
+    },
+    "fashion-muslim": {
+        "link": "https://shopee.co.id/Fashion-Muslim-cat.43",
+        "label": "Fashion Muslim",
+        "sub_categories": []
+    },
+    "perlengkapan-rumah": {
+        "link": "https://shopee.co.id/Perlengkapan-Rumah-cat.46",
+        "label": "Perlengkapan Rumah",
+        "sub_categories": [
+            "Kamar Tidur",
+            "Kamar Mandi",
+            "Ruang Makan",
+            "Perlengkapan & Aksesoris Dapur",
+            "Furniture",
+            "Dekorasi",
+            "Tempat Penyimpanan",
+            "Alat Pemeliharaan Rumah",
+            "Kebersihan & Binatu",
+            "Alat Pertukangan",
+            "Taman",
+            "Payung",
+            "Peralatan Masak"
+        ]
+    },
+    "pakaian-pria": {
+        "link": "https://shopee.co.id/Pakaian-Pria-cat.33",
+        "label": "Pakaian Pria",
+        "sub_categories": [
+            "Atasan",
+            "Celana Panjang",
+            "Jeans",
+            "Outerwear",
+            "Batik",
+            "Pakaian Tidur",
+            "Pakaian Dalam",
+            "Celana Pendek"
+        ]
+    },
+    "pakaian-wanita": {
+        "link": "https://shopee.co.id/Pakaian-Wanita-cat.32",
+        "label": "Pakaian Wanita",
+        "sub_categories": [
+            "Atasan",
+            "Outerwear",
+            "Dress",
+            "Jumpsuit & Overall",
+            "Batik & Kebaya",
+            "Celana",
+            "Jeans",
+            "Rok",
+            "Baju Tidur",
+            "Pakaian Dalam",
+            "Baju Hamil",
+            "Kostum",
+            "Set",
+            "Kain"
+        ]
+    },
+    "kesehatan": {
+        "link": "https://shopee.co.id/Kesehatan-cat.14780",
+        "label": "Kesehatan",
+        "sub_categories": [
+            "Kesehatan Seksual",
+            "Suplemen Makanan",
+            "Alat Medis",
+            "Perawatan Diri"
+        ]
+    },
+    "komputer-aksesoris": {
+        "link": "https://shopee.co.id/Komputer-Aksesoris-cat.134",
+        "label": "Komputer & Aksesoris",
+        "sub_categories": [
+            "Desktop",
+            "Laptop",
+            "Audio Komputer",
+            "Komponen Komputer",
+            "Mouse & Keyboards",
+            "Storage Eksternal",
+            "Networking",
+            "Printer & Scanner",
+            "Peralatan Kantor",
+            "Proyektor & Pointer",
+            "Gaming",
+            "Aksesoris Komputer"
+        ]
+    },
+    "fashion-bayi-anak": {
+        "link": "https://shopee.co.id/Fashion-Bayi-Anak-cat.14535",
+        "label": "Fashion Bayi & Anak",
+        "sub_categories": [
+            "Pakaian Bayi",
+            "Sepatu Bayi",
+            "Pakaian Anak Perempuan",
+            "Pakaian Anak Laki-laki",
+            "Tas Anak Perempuan",
+            "Tas Anak Laki-laki",
+            "Sepatu Anak Perempuan",
+            "Sepatu Anak Laki-laki",
+            "Aksesoris Kepala",
+            "Perhiasan Anak",
+            "Jam Tangan Anak",
+            "Aksesoris Sepatu Anak"
+        ]
+    },
+    "sepatu-pria": {
+        "link": "https://shopee.co.id/Sepatu-Pria-cat.35",
+        "label": "Sepatu Pria",
+        "sub_categories": [
+            "Boots",
+            "Sepatu Formal",
+            "Sepatu Kasual",
+            "Sneakers",
+            "Sandal",
+            "Aksesoris & Perawatan Sepatu",
+            "Kaos Kaki",
+            "Tali Sepatu"
+        ]
+    },
+    "sepatu-wanita": {
+        "link": "https://shopee.co.id/Sepatu-Wanita-cat.34",
+        "label": "Sepatu Wanita",
+        "sub_categories": [
+            "Boots & Ankle Boots",
+            "Sepatu Hak",
+            "Wedges",
+            "Sepatu Flat",
+            "Sneakers",
+            "Flip Flop & Sandals",
+            "Aksesoris & Perawatan Sepatu",
+            "Slip On"
+        ]
+    },
+    "tas-pria": {
+        "link": "https://shopee.co.id/Tas-Pria-cat.10217",
+        "label": "Tas Pria",
+        "sub_categories": []
+    },
+    "tas-wanita": {
+        "link": "https://shopee.co.id/Tas-Wanita-cat.36",
+        "label": "Tas Wanita",
+        "sub_categories": [
+            "Top Handle",
+            "Tas Tote",
+            "Tas Selempang",
+            "Tas Pinggang",
+            "Clutch",
+            "Ransel",
+            "Tas Laptop",
+            "Tas Olahraga",
+            "Dompet",
+            "Tas Travel & Koper",
+            "Aksesoris Tas",
+            "Shoulder Bag"
+        ]
+    },
+    "jam-tangan": {
+        "link": "https://shopee.co.id/Jam-Tangan-cat.37",
+        "label": "Jam Tangan",
+        "sub_categories": [
+            "Jam Tangan Pria",
+            "Jam Tangan Wanita",
+            "Jam Tangan Couple",
+            "Aksesoris Jam"
+        ]
+    },
+    "elektronik": {
+        "link": "https://shopee.co.id/Elektronik-cat.121",
+        "label": "Elektronik",
+        "sub_categories": [
+            "TV",
+            "Speaker & Mikrofon",
+            "Media Player",
+            "Pencahayaan",
+            "Kelistrikan",
+            "Pendingin",
+            "Telepon",
+            "Penyedot Debu",
+            "Kamera Pengintai",
+            "Perangkat Outdoor",
+            "Perawatan Pakaian",
+            "Perangkat Dapur",
+            "Video Games",
+            "Vaporizer",
+            "Kabel & Sparepart"
+        ]
+    },
+    "aksesoris-fashion": {
+        "link": "https://shopee.co.id/Aksesoris-Fashion-cat.38",
+        "label": "Aksesoris Fashion",
+        "sub_categories": [
+            "Aksesoris Rambut",
+            "Topi",
+            "Kacamata",
+            "Lensa Kontak",
+            "Anting",
+            "Kalung",
+            "Cincin",
+            "Gelang",
+            "Ikat Pinggang",
+            "Syal & Scarf",
+            "Sarung Tangan",
+            "Logam Mulia",
+            "Aksesoris & Set Perhiasan"
+        ]
+    },
+    "hobi-koleksi": {
+        "link": "https://shopee.co.id/Hobi-Koleksi-cat.42",
+        "label": "Hobi & Koleksi",
+        "sub_categories": [
+            "Diecast",
+            "Figur",
+            "Model Kit",
+            "Radio Control",
+            "Puzzle & Board Game",
+            "Musik",
+            "Koleksi Penggemar",
+            "Perawatan Hewan",
+            "Kerajinan Tangan",
+            "Hobby Lainnya"
+        ]
+    },
+    "fotografi": {
+        "link": "https://shopee.co.id/Fotografi-cat.154",
+        "label": "Fotografi",
+        "sub_categories": [
+            "Kamera",
+            "Video",
+            "Drone & Aksesoris",
+            "Lensa & Aksesoris",
+            "Flash & Aksesoris",
+            "Perlengkapan Kamera & Video",
+            "Casing & Tas Kamera",
+            "Perawatan Kamera"
+        ]
+    },
+    "olahraga-outdoor": {
+        "link": "https://shopee.co.id/Olahraga-Outdoor-cat.41",
+        "label": "Olahraga & Outdoor",
+        "sub_categories": [
+            "Sepak Bola & Futsal",
+            "Basket",
+            "Bulutangkis",
+            "Tenis",
+            "Tenis Meja",
+            "Voli",
+            "Gym & Fitness",
+            "Diving & Renang",
+            "Beladiri",
+            "Sepeda",
+            "Alat Pancing",
+            "Panahan",
+            "Olahraga Gunung",
+            "Olahraga Outdoor",
+            "Sepatu Olahraga",
+            "Aksesoris Olahraga",
+            "Yoga & Pilates",
+            "Pakaian Olahraga Wanita",
+            "Pakaian Olahraga Pria"
+        ]
+    },
+    "otomotif": {
+        "link": "https://shopee.co.id/Otomotif-cat.155",
+        "label": "Otomotif",
+        "sub_categories": [
+            "Mobil",
+            "Motor",
+            "Aksesoris Interior Mobil",
+            "Aksesoris Eksterior Mobil",
+            "Sparepart Mobil",
+            "Aksesoris Motor",
+            "Aksesoris Pengendara Motor",
+            "Sparepart Motor",
+            "Oli & Pelumas",
+            "Perawatan Kendaraan",
+            "Perkakas & Perlengkapan Otomotif",
+            "E Money"
+        ]
+    },
+    "buku-alat-tulis": {
+        "link": "https://shopee.co.id/Buku-Alat-Tulis-cat.16049",
+        "label": "Buku & Alat Tulis",
+        "sub_categories": [
+            "Buku Bacaan",
+            "Komik",
+            "Majalah",
+            "Buku Tulis & Kertas",
+            "Alat Tulis",
+            "Perlengkapan Menggambar & Melukis",
+            "Perlengkapan Kantor",
+            "Organizer",
+            "Surat-Menyurat"
+        ]
+    },
+    "voucher": {
+        "link": "https://shopee.co.id/Voucher-cat.2160",
+        "label": "Voucher",
+        "sub_categories": [
+            "Pulsa",
+            "Data",
+            "Gaming",
+            "Travel & Tour",
+            "Belanja",
+            "Event Ticket",
+            "Shopee Official"
+        ]
+    },
+    "serba-serbi": {
+        "link": "https://shopee.co.id/Serba-Serbi-cat.135",
+        "label": "Serba Serbi",
+        "sub_categories": [
+            "Lain-lain",
+            "Shopee Gifts"
+        ]
+    },
+    "souvenir-pesta": {
+        "link": "https://shopee.co.id/Souvenir-Pesta-cat.10226",
+        "label": "Souvenir & Pesta",
+        "sub_categories": []
+    }
+}
